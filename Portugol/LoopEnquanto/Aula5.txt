@@ -1,0 +1,22 @@
+ATIVIDADE 01 - Laço Enquanto (While)
+1. Imprimir na tela os números de 1 até 10
+
+2. Escrever um algoritmo que peça para o usuário escrever o seu nome, imprima “Seja bem-
+vindo (usuário), para um numero determinado de usuários. Caso seja necessário, digite “x”
+
+para parar.
+3. Repetir o seu nome 10 vezes, junto colocar a contagem. Por exemplo:
+1. Cesar
+2. Cesar
+3. Cesar
+4. Escrever os 5 primeiros nomes e sobrenomes, separados. Use concatenação para imprimir
+na tela.
+5. Calcular a média dos 5 primeiros números
+6. Verifique a maioridade de 5 pessoas. Se são maiores que 18, atingiram a maioridade, caso
+contrário, são menores de idade.
+7. Faça um algoritmo que leia um conjunto de 5 valores, um de cada vez, acompanhados de
+um código 1, 2 ou 3. Este valor representa o código da peças utilizadas em uma das 4
+manutenções feitas e os códigos representam:
+
+Mostre no final, o total geral de peças utilizadas, o total de Motor 12V, total de Resistor 200, o
+total de Capacitores de 100 μF e o percentual de Motor, de Resistor e de Capacitor.

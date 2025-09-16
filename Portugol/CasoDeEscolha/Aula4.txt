@@ -1,0 +1,33 @@
+1) Desenvolver um algoritmo que digite uma letra e imprima se é vogal.
+2) Desenvolver um algoritmo que escreva de 1 a 7 e imprima o dia da semana.
+
+3) Tendo como entrada a altura e o sexo (codificado da seguinte forma: 1 -
+feminino e 2 - masculino) de uma pessoa, construa um programa que calcule e
+imprima seu peso ideal, utilizando as seguintes Fórmulas:
+• para homens: (Altura* 72.7) –58
+• para mulheres: (Altura* 62.1 ) –44.7
+
+4) As vendas parceladas se tornaram uma ótima opção para os lojistas, que a cada dia
+criam novas promoções para tentar conquistar novos clientes. Faça um programa
+onde o lojista possa entrar com o preço do produto e receba as seguintes
+informações em um menu de escolha:
+• O valor com 10% de desconto para pagamento à vista
+• O valor da prestação para parcelamento sem juros, em 5x
+• O valor da prestação para parcelamento com juros, em 10x, com 20% de
+acréscimo no valor do produto.
+
+5) Faça um programa que leia o seu peso na Terra. Em seguida selecione o número de
+um planeta e calcule qual será o seu peso neste planeta. A relação de planetas é:
+
+A fórmula para o cálculo do peso em outro planeta, considerando a gravidade relativa de
+cada um deles é:
+
+PesoNoPlaneta = PesoNaTerra*GravidadeRelativa
+
+6) Elabore um programa que receba dois números inteiros e mostre para o usuário um
+menu com as opções:
+1 – Soma
+2 – Subtração
+3 – Divisão
+4 – Multiplicação
+Em seguida, mostre o resultado na tela.
