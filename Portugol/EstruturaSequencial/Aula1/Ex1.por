@@ -1,5 +1,3 @@
-=> TESTES SIMPLES
-
 programa
 {
 	inclua biblioteca Mouse

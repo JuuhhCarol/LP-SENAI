@@ -1,0 +1,47 @@
+ATIVIDADE 1 – ESTRUTURA CONDICIONAL
+
+Usando o Pseudocódigo, escreva o algoritmo das tarefas abaixo (Estrutura
+
+Condicional)
+
+1. Verificar a idade. Se maior que 18, " acesso liberado", senão, "acesso negado".
+2. Escrever um pseudocódigo que leia dois valores inteiro distintos e informe qual é o
+maior.
+3. Em uma papelaria, até 100 folhas, a cópia custa R$0,25, e acima de 100 folhas
+custa R$0,20. Dado o total de cópias, informe o total a ser pago.
+4. Agora, escreva um pseudocódigo com 3 valores e mostre qual é o maior.
+5. Ler um número e se for maior que 20, mostrar a metade desse número, senão o
+dobro.
+6. Ler um número inteiro, se for positivo, imprimir sua raiz quadrada – usar a biblioteca
+Matematica e a função raiz - senão imprimir o seu quadrado.
+7. Elaborar um algoritmo que leia o nome e a idade de duas pessoas, e retorne o nome
+e a idade da mais velha.
+8. Um programa que permita a passagem de veículos por baixo de um viaduto. Se o
+veículo tiver carga acima de 5 metros emite aviso que não pode passar, caso
+contrário liberada a passagem.
+9. A Loja Mamão com Açúcar está vendendo seus produtos em 5 (cinco) prestações
+sem juros para compras acima de R$250,00. Faça um algoritmo que receba um
+valor de uma compra e mostre o valor das prestações se possível.
+10.Faça um algoritmo que leia dois valores inteiros A e B se os valores forem iguais
+devem ser somados os dois, caso contrário multiplique A por B ao final do cálculo
+atribuir o valor para uma variável Soma.
+11.Verificar se a pessoa tem idade para votar, considerando 16 e 17 anos como opção
+e 18 anos como obrigatório.
+12.A partir do preço à vista de um determinado produto, calcule o preço total a pagar e
+o valor da prestação mensal, referentes ao pagamento parcelado. Se o pagamento
+for parcelado em 3 vezes deve ser dado um acréscimo de 10% no total a ser pago.
+Se o parcelamento for em 5 vezes, o acréscimo será de 20%.
+13.Dado três medidas, verifique se elas podem ser medidas de um triângulo e, se
+puderem ser triângulo, classifique como equilátero, isósceles ou escaleno.
+14.Escreva um algoritmo que leia dois números
+inteiros e diga se a diferença entre eles é maior do que 50. Lembre-se que o
+primeiro valor lido deverá ser maior que o segundo.
+15.Álcool ou gasolina? Faça um programa para descobrir se o álcool é vantajoso ou
+não em relação à gasolina. O cálculo é dividir o preço do litro do álcool pelo da
+gasolina. Se o resultado for inferior a 0,7, use álcool. Se for maior que 0,7, então a
+gasolina é melhor.
+16.Em uma fábrica, uma máquina precisa de manutenção sempre que o número de
+peças defeituosas supera 10% da produção. Dados o total de peças produzidas e o
+total de peças defeituosas, informe se a máquina precisa de manutenção.
+17.Criar algoritmo para dar acesso autorizado somente se for login Senai e senha
+cebOla. Caso contrário, acesso negado.

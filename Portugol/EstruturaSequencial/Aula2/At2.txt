@@ -1,0 +1,16 @@
+Atividade 02 – Estrutura Sequencial
+1. Escrever um programa que peça para o usuário inserir o nome, e-mail e telefone. Depois
+imprimir na tela o resultado.
+2. Somar dois números quaisquer
+3. Somar dois números quaisquer e multiplicar o resultado pelo primeiro número
+4. Um algoritmo que calcule a área de um triângulo.
+5. Um algoritmo que calcule a área de uma circunferência.
+6. Escreva um algoritmo que receba o ano atual, ano de nascimento de uma pessoa e mostre a
+sua idade.
+7. Que calcule o estoque médio de uma peça. Sendo que ESTOQUEMEDIO = (QUANTIDADE
+MÍNIMA + QUANTIDADE MÁXIMA)/2
+8. Que faça o cálculo do salário líquido de um professor. Dados necessários: valor da hora aula
+e número de horas trabalhadas no mês.
+9. Elaborar um programa que apresente o valor da conversão em real (R$) de um valor lido em
+dólar. O programa deve solicitar o valor da cotação do dólar e também a quantidade de
+dólares a serem convertidos
